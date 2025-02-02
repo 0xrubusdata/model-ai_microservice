@@ -29,13 +29,20 @@ Este projeto é um microsserviço em Python que fornece uma API com três endpoi
 
 ### `/api/general`
 - Uses **Llama3.2** model to generate a response to general queries.
+   ```sh
+   ollama run llama3.2:3b
+   ```
 
 ### `/api/economic`
 - Uses **Deepseek-r1:8b** model to provide economic insights.
-
+   ```sh
+   ollama run deepseek-r1:8b
+   ```
 ### `/api/legal`
 - Uses **Gemma** model to generate legal-related responses.
-
+   ```sh
+   ollama run gemma:7b
+   ```
 ---
 
 ## 🛠 Installation & Execution

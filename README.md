@@ -1,4 +1,7 @@
-# Microservice Ollama - Python API
+# ![Microservice Ollama](./public/agents/ollama.png)
+
+
+## 🌟 Welcome to **Microservice Ollama - Python API**
 
 ## 🌍 Description
 
